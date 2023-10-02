@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 const Header = () => {
     return(
         <div className="header"> 
+        {/* this doesnt add the the port/ on it */}
             <button className="header-button0"><Link to="/" className="header-link0">JY</Link></button>
             <button className="header-button"><Link to="/projects" className="header-link">Projects</Link></button>
             <button className="header-button"><Link to="/timeline" className="header-link">Timeline</Link></button>
