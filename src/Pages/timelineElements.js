@@ -26,7 +26,7 @@ let timelineElements = [
       title: "Front End Developer Intern",
       location: "TechNext Inc",
       description:
-        "Over the summer of 2023 I was able to participate in an eight-week internship with TechNext Inc., a MIT reseaarch-based startup located in Cambridge, Massachusets. While interning at TechNext I used Javascript with React, and Python with both Django and Dash-Plotly to improve and innovate the company's products.",
+        "Over the summer of 2023 I was able to participate in an eight-week internship with TechNext Inc., a MIT research-based startup located in Cambridge, Massachusets. While interning at TechNext I used Javascript with React, and Python with both Django and Dash-Plotly to improve and innovate the company's products.",
       buttonText: "TechNext Inc",
       date: "August 2023 - October 2023",
       icon: "work",
@@ -37,7 +37,7 @@ let timelineElements = [
       title: "University of Washington Sophmore Year",
       location: "Seattle, WA",
       description:
-        "The highlight of this year was being admitted to the Paul Allen School of Computer Science as well as the Computational Finance program. Clases of note were Foundation of Computing 1(CSE 311), Data Strucutre and Paralellism(CSE 332), Software Engineering(CSE 331) and R Programming for Quantitative Finance(CFRM 425)",
+        "The highlight of this year was being admitted to the Paul Allen School of Computer Science as well as the Computational Finance program. Clases of note were Foundation of Computing 1(CSE 311), Data Structures and Paralellism(CSE 332), Software Engineering(CSE 331) and R Programming for Quantitative Finance(CFRM 425)",
       date: "2021 -2022",
       icon: "school",
     },
