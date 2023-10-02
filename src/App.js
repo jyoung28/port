@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       
-      <Router>
+      <Router basename='/port'>
           {/* have the header only be on pages after login */}
           <Header/>
           <Routes>
