@@ -11,7 +11,6 @@ const Projects = () => {
     const handleLink = (link, index, text) => {
         if (link) {
             // have buttons same color as titl
-            console.log(index)
             return <div>
                 <br></br>
                 <a href={link} className={"post-button" + index%3} target="_blank">{text}</a>
@@ -21,7 +20,6 @@ const Projects = () => {
             return <></>
         }
     }
-
 
     return (
     <div className="container">

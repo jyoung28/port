@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&family=Poppins:wght@500&display=swap');
 body {
-  background: rgb(55, 62, 103);
+  background: #0f6082;
   font-family: 'League Spartan', sans-serif;
   font-size: 25px;
   color: rgb(53, 53, 53);
@@ -127,8 +127,8 @@ button.header-button0 {
   /* background-color: white; */
   margin-left: 50px;
   font-size: 30px;
-  animation: fadeInRight 1s ease-in;  
-    animation-fill-mode: forwards;
+  /* animation: fadeInRight 1s ease-in;  
+    animation-fill-mode: forwards; */
 }
 
 .landing-text {
@@ -146,8 +146,8 @@ button.header-button0 {
   width:500px;
   border-radius: 500px;
   height:fit-content;
-  animation: fadeInLeft 1s ease-in;  
-    animation-fill-mode: forwards;
+  /* animation: fadeInLeft 1s ease-in;  
+    animation-fill-mode: forwards; */
 }
 
 .header-link {

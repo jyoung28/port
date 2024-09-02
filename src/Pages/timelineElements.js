@@ -1,23 +1,32 @@
 let timelineElements = [
-    
+    {
+      id: 0,
+      title: "Software Architecture Intern",
+      location: "Santa Clara, CA",
+      description:
+      "During the Summer of 2024 I had the privelige to work at Ambarella, a semiconductor/ NPU company, as a Software Architecture Intern. During this time I worked on a Retrieval-Augmented-Generation (RAG) search system to be ran on the company's own chip. This project was a healthy combination of familiar software negineering concepts, such as fullstack developemnt and network communication, while also providing an experience to get an learn more about Large Language Model and optmizign them for strong performance and high accuracy given hardware constraints.",
+      date: "June 2024 - Sept. 2024",
+      icon: "school",
+
+    },
     {
       id: 1,
       title: "University of Washington Junior Year",
       location: "Seatlle, WA",
       description:
-        "I am currently in my 3rd year of university. Some interesting classes I am taking or plan to take are Foundation of Computing 2(CSE 312), The Hardware-Software Interface(CSE 351), Systems Programming(CSE 333), Machine Learning(CSE 446), Deep Learning(CSE 493), and Machine Learning for Finance(CFRM 421)",
+        "My junior year was full of interesting and challenging coursework as I finished the core requirements of the Computer Science curriculumn and was able to branch out into various focuses through elective classes. Some classes I enjoyed this year were Machine Learning (CSE 446), Systems Programming (CSE 333), Distributed Systems (CSE 452), Algorithms (CSE 421), and Introduction to Financial Markets (CFRM 415).",
       date: "2023-2024",
       icon: "school",
 
     },
     {
       id: 2,
-      title: "Front-End Developer",
+      title: "Part-Time Front-End Developer",
       location: "TechNext Inc",
       description:
-        "After my performance during my summer internship with TechNext, I was offered a part-time position as a front-end developer.",
+        "After my performance during my summer internship with TechNext, I was offered a part-time position as a front-end developer. During this time I worked on revamping the key product to have a more porfessional look and more developer friendly. I also worked on improving the semantic search used in the product by generating and testing vector embeddings for a database of 100,000+ documents.",
       buttonText: "TechNext Inc",
-      date: "October 2023 - present",
+      date: "October 2023 - March 2024",
       icon: "work",
       link: "https://www.technext.ai/",
     },
@@ -38,7 +47,7 @@ let timelineElements = [
       location: "Seattle, WA",
       description:
         "The highlight of this year was being admitted to the Paul Allen School of Computer Science as well as the Computational Finance program. Clases of note were Foundation of Computing 1(CSE 311), Data Structures and Paralellism(CSE 332), Software Engineering(CSE 331) and R Programming for Quantitative Finance(CFRM 425)",
-      date: "2021 -2022",
+      date: "2021 - 2022",
       icon: "school",
     },
     {
