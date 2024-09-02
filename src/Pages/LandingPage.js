@@ -12,7 +12,7 @@ const LandingPage = () => {
         <div className="landing-cols">
             <div className="col1">
             <p className="landing-text">
-                Hello all! My name is Jacob Young and I am a Computer Science and Computational Finance
+                HEHEHEHEHE Hello all! My name is Jacob Young and I am a Computer Science and Computational Finance
                  and Risk Management Double Major studying at the University of Washington. Originally 
                  from the Bay Area, I aim to be the most versatile engineer I can, eager to learn new 
                  technologies and quick to apply them. I am currently looking for internship positions 
