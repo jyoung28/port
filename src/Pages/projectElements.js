@@ -2,14 +2,14 @@ import useTypingEffect from "../Components/TypingEffect";
 let posts = [
     {
         title: "Sharded, Linearizable, Available Key-Store with Dynamic Load-Balancing and Atomic Multi-Key transactions.",
-        description: "This project was another course-loing venture that was challanging but rewarding. By takign the project in steps, first building the key-Value store, then implementing a primary and backup failsafe, then updating the project to use the Paxos algorithm and finally separating the store acorss several shards, me and my project partner were able to complete the project. One aspect of this project I enjoyed were the design documents that were reviewed by the course stff before any code was written. This forced me to be more methodical in how I approached the steps of the project, which I adopted into my own workflow and began to see immediate rises in productivity and learning rate.",
+        description:"This project was another course-long venture that was challenging but rewarding. By taking the project in steps, first building the key-value store, then implementing a primary and backup failsafe, then updating the project to use the Paxos algorithm, and finally separating the store across several shards, me and my project partner were able to complete the project. One aspect of this project I enjoyed was the design documents that were reviewed by the course staff before any code was written. This forced me to be more methodical in how I approached the steps of the project, which I adopted into my own workflow and began to see immediate rises in productivity and learning rate."
         link: "https://courses.cs.washington.edu/courses/cse452/24sp/#labs",
         linkText: "Read More Here",
         imgClass : "post-image"
     },
     {
         title: "Multi-threaded Disk-Indexed File Search System",
-        description: "The culmination of the CSE 333 Systems Programming course was a project that took the entire quarter to complete. The project was similar to the orginal Google File System(GFS), parsing docuents, using an inverted index to search them for key words, and storing all datastructures on disk to preserve memory. The system was then scaled to a multithreadaed webserver that could be accessed by anyone. The project gave me strong C, and C++ programming skills, as well as deep understanding of web sockets and concurrency in C++.",
+        description: "The culmination of the CSE 333 Systems Programming course was a project that took the entire quarter to complete. The project was similar to the original Google File System(GFS), parsing documents, using an inverted index to search them for keywords, and storing all data structures on disk to preserve memory. The system was then scaled to a multithreaded web server that could be accessed by anyone using a tcp connection. The project gave me strong C, and C++ programming skills, as well as a deep understanding of web sockets and concurrency in C++.",
         link: "https://courses.cs.washington.edu/courses/cse333/24wi/resources/syllabus.html",
         linkText: "Read More Here",
         imgClass : "post-image"
@@ -25,7 +25,7 @@ let posts = [
     },
     {
         title: "PDF Search Tool(OpenAI API, LlamaIndex, Flask, Python)",
-        description: " At the UC Berkeley AI/LLM 2023 Hackathon, all participants were given OpenAI API tokens for our projects. After attending a workshop led the by the CEO, I decided to use the LlamaIndex framework to customize the input to GPT-3.5 and allow pdf files to be inserted to allow for contextual search, and summarization. I built the tool using the python web development framework Flask and learned a lot about artificial intelligence and LLMs just by attending workshops, working on my project, and playing with the API.",
+        description: " At the UC Berkeley AI/LLM 2023 Hackathon, all participants were given OpenAI API tokens for our projects. After attending a workshop led by the CEO, I decided to use the LlamaIndex framework to customize the input to GPT-3.5 and allow pdf files to be inserted to allow for contextual search, and summarization. I built the tool using the python web development framework Flask and learned a lot about artificial intelligence and LLMs just by attending workshops, working on my project, and playing with the API.",
         image: "pdf.jpeg",
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7076292317627764736/",
         linkText:"LinkedIn Post",
@@ -46,7 +46,7 @@ let posts = [
     {
         title: "C Memory Management Tool",
         imgClass : "post-image",
-        description: "As part of the coursework for my class CSE 374, Intermmediate Prgramming Concepts, I was tasked with writing from scratch my own memory allocating and freeing tool in C (recreating malloc and free from scratch). The project was very conceptual and very comprehensive, especially for someone who had learned to code 6 months prior. However the cahllenge was invigorating and I was able to complete the project.",
+        description: "As part of the coursework for my class CSE 374, Intermediate Programming Concepts, I was tasked with writing from scratch my own memory allocating and freeing tool in C (recreating malloc and free from scratch). The project was very conceptual and very comprehensive, especially for someone who had learned to code 6 months prior. However the cahllenge was invigorating and I was able to complete the project.",
     },
 
     {
