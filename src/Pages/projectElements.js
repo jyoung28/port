@@ -2,7 +2,7 @@ import useTypingEffect from "../Components/TypingEffect";
 let posts = [
     {
         title: "Sharded, Linearizable, Available Key-Store with Dynamic Load-Balancing and Atomic Multi-Key transactions.",
-        description:"This project was another course-long venture that was challenging but rewarding. By taking the project in steps, first building the key-value store, then implementing a primary and backup failsafe, then updating the project to use the Paxos algorithm, and finally separating the store across several shards, me and my project partner were able to complete the project. One aspect of this project I enjoyed was the design documents that were reviewed by the course staff before any code was written. This forced me to be more methodical in how I approached the steps of the project, which I adopted into my own workflow and began to see immediate rises in productivity and learning rate."
+        description:"This project was another course-long venture that was challenging but rewarding. By taking the project in steps, first building the key-value store, then implementing a primary and backup failsafe, then updating the project to use the Paxos algorithm, and finally separating the store across several shards, me and my project partner were able to complete the project. One aspect of this project I enjoyed was the design documents that were reviewed by the course staff before any code was written. This forced me to be more methodical in how I approached the steps of the project, which I adopted into my own workflow and began to see immediate rises in productivity and learning rate.",
         link: "https://courses.cs.washington.edu/courses/cse452/24sp/#labs",
         linkText: "Read More Here",
         imgClass : "post-image"
