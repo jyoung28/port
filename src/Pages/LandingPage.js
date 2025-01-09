@@ -8,7 +8,8 @@ import linkedIn from "./link.svg"
 import gh from "./github.svg"
 
 
-
+// TO update : 
+// https://medium.com/@ninadkarlekar/updating-your-deployed-react-project-on-github-pages-a-quick-guide-f510bedc70c9 
 const LandingPage = () => {
     let element = posts[2]
 
