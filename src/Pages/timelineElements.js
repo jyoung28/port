@@ -1,18 +1,28 @@
 let timelineElements = [
     {
       id: 0,
-      title: "Software Architecture Intern",
-      location: "Santa Clara, CA",
+      title: "University of Washington Senior Year",
+      location: "Seatle, WA",
       description:
-      "During the Summer of 2024 I had the privelige to work at Ambarella, a semiconductor/ NPU company, as a Software Architecture Intern. During this time I worked on a Retrieval-Augmented-Generation (RAG) search system to be ran on the company's own chip. This project was a healthy combination of familiar software negineering concepts, such as fullstack developemnt and network communication, while also providing an experience to get an learn more about Large Language Model and optmizign them for strong performance and high accuracy given hardware constraints.",
-      date: "June 2024 - Sept. 2024",
+        "My final year of university has been full of interesting classes and extraciriculars. I joined the Algorithmic Trading Club, as of Winter Quarter I have taken Deep Learning, Scientific Computing, Computational Methods for Data Analysis, Operating Systems and Natural Language Processing. Although I enjoy university, I am excited for the future.",
+      date: "2024-2025",
       icon: "school",
 
     },
     {
       id: 1,
+      title: "Software Architecture Intern",
+      location: "Santa Clara, CA",
+      description:
+      "During the Summer of 2024 I had the privelige to work at Ambarella, a semiconductor/ NPU company, as a Software Architecture Intern. During this time I worked on a Retrieval-Augmented-Generation (RAG) search system that showcased the company's hardware performance running an LLM. This project was a healthy combination of familiar software negineering concepts, such as fullstack developemnt and network communication, while also providing an experience to get an learn more about Large Language Model and optmizign them for strong performance and high accuracy given hardware constraints. I accepted a part-time intership for the Fall Quarter where I moved the entire system on the proprietary hardware, as well as experiment with the accuracy.",
+      date: "June 2024 - Dec. 2024",
+      icon: "work",
+
+    },
+    {
+      id: 2,
       title: "University of Washington Junior Year",
-      location: "Seatlle, WA",
+      location: "Seatle, WA",
       description:
         "My junior year was full of interesting and challenging coursework as I finished the core requirements of the Computer Science curriculumn and was able to branch out into various focuses through elective classes. Some classes I enjoyed this year were Machine Learning (CSE 446), Systems Programming (CSE 333), Distributed Systems (CSE 452), Algorithms (CSE 421), and Introduction to Financial Markets (CFRM 415).",
       date: "2023-2024",
@@ -20,7 +30,7 @@ let timelineElements = [
 
     },
     {
-      id: 2,
+      id: 3,
       title: "Part-Time Front-End Developer",
       location: "TechNext Inc",
       description:
@@ -31,7 +41,7 @@ let timelineElements = [
       link: "https://www.technext.ai/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Front End Developer Intern",
       location: "TechNext Inc",
       description:
@@ -42,7 +52,7 @@ let timelineElements = [
       link: "https://www.technext.ai/",
     },
     {
-      id: 4,
+      id: 5,
       title: "University of Washington Sophmore Year",
       location: "Seattle, WA",
       description:
@@ -51,7 +61,7 @@ let timelineElements = [
       icon: "school",
     },
     {
-      id: 5,
+      id: 6,
       title: "Mission Valley Swim Club",
       location: "Lifeguard/Swim Instructor",
       description:
@@ -62,7 +72,7 @@ let timelineElements = [
       link: "https://mvsc.us/",
     },
     {
-      id: 6,
+      id: 7,
       title: "University of Washington Freshman Year",
       location: "Seattle, WA",
       description:
@@ -72,7 +82,7 @@ let timelineElements = [
       link: "/",
     },
     {
-      id: 7,
+      id: 8,
       title: "Irvington High School",
       location: "Fremont, CA",
       description:

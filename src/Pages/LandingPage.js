@@ -29,7 +29,7 @@ const LandingPage = () => {
             </p>
             <a href="https://www.linkedin.com/in/jacob-young-a08a21242/" className="ex-link" target="_blank"><img src={linkedIn} className="image-link"></img></a>
             <a href="https://github.com/jyoung28" className="ex-link" target="_blank"><img src={gh} className="image-link1"></img></a>
-            <button className="resume"><Link to="Jacob_young_resume.pdf" className="ex-link" target="_blank" download>Download My Resume &#x2913;</Link></button>
+            <button className="resume"><Link to="Jacob_Young_Resume.pdf" className="ex-link" target="_blank" download>My Resume &#x2913;</Link></button>
             </div>
             <img src={profile} className="landing-pic"></img>
         </div>
